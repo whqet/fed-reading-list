@@ -5,5 +5,5 @@
 * [CSS](chapter2.md)
 * [Javascript](chapter3.md)
 * [Node](chapter4.md)
-* Chapter5
+* [Chapter5](chapter5.md)
 
