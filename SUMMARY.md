@@ -6,5 +6,5 @@
 * [3.Javascript](chapter3.md)
 * [4.Node](chapter4.md)
 * [5.Git](chapter5.md)
-* [自动化构建](chapter6.md)
+* [6.自动化构建](chapter6.md)
 
