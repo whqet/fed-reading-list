@@ -1,3 +1,11 @@
-# My Awesome Book
+# 前端阅读列表
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+依据前端开发路径，逐个技能点、知识点推荐相关资源，助您爱上前端，轻松上手……
+
+## 关于本书
+
+## 贡献列表
+
+## 更新日志
+
+## 版权许可
