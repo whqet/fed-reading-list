@@ -4,7 +4,7 @@
 * [1.HTML](chapter1.md)
    * [1.1 HTML简介](1-1.md)
    * [1.2 HTML基础](1-2.md)
-   * [1.3](1-3.md)
+   * [1.3 HTML5](1-3.md)
 * [2.CSS](chapter2.md)
 * [3.Javascript](chapter3.md)
 * [4.Node](chapter4.md)
