@@ -7,4 +7,5 @@
 * [4.Node](chapter4.md)
 * [5.Git](chapter5.md)
 * [6.自动化构建](chapter6.md)
+* 7.代码质量
 
