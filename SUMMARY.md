@@ -6,5 +6,5 @@
 * [Javascript](chapter3.md)
 * [Node](chapter4.md)
 * [Git](chapter5.md)
-* Chapter6
+* [Chapter6](chapter6.md)
 
