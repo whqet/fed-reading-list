@@ -2,7 +2,7 @@
 
 * [序言](README.md)
 * [1.HTML](chapter1.md)
-* [CSS](chapter2.md)
+* [2.CSS](chapter2.md)
 * [Javascript](chapter3.md)
 * [Node](chapter4.md)
 * [Git](chapter5.md)
